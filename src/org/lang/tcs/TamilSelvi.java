@@ -11,5 +11,8 @@ public class TamilSelvi {
 		
 	}
 
-
+public void sample()
+{
+	System.out.println("sample");
+}
 }
